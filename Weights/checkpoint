@@ -1,0 +1,2 @@
+model_checkpoint_path: "LenetSavedModel_Weights"
+all_model_checkpoint_paths: "LenetSavedModel_Weights"
